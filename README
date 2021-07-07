@@ -1,0 +1,21 @@
+Shoot out, Version 1.20 14/10/2020
+
+Installation: (Assuming ence260-ucfk4 package is downloaded)
+
+- Move to folder in a terminal ../ence260-ucfk4/assignment.
+- Type in "git clone https://eng-git.canterbury.ac.nz/ence260-2020/group-105.git" 
+to clone the repository if not already cloned.
+- Move to folder ../ence260-ucfk4/assignment/group105.
+- Type in "make program"
+
+Playing the game:
+
+- Each player has 3 health and after you lose your health the game is finished.
+- To start the game both players must push down on the Side Button.
+- To move your player you can push left and right on the Navswitch to move in 
+said direction.
+- To shoot the other player the Navswitch can be pushed down, you can only have 
+1 bullet on the screen at a time
+- Each time you get hit by a bullet you lose 1 health
+- When the game is finished it can be reset by clicking the Side Button. 
+
